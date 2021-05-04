@@ -1,4 +1,4 @@
-# Stripe Sync Engine
+# Stripe Sync Engine (Experimental)
 
 Continuously synchronizes a Stripe account to a Postgres database.
 
